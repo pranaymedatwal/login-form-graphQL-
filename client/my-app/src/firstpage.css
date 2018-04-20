@@ -1,0 +1,27 @@
+td {
+  border: 2px solid dimgrey;
+  height: 30px;
+  width: 30px;
+  font-size: 15px;
+  
+}
+.cellshow{
+	background-color: peachpuff;
+	color:black;
+	 
+  }
+body
+{
+	background-image: url("dynamicsudoku.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.button{
+	background-color:gray;
+	color:white;
+}
+.design
+{
+	background-color: grey;
+}
